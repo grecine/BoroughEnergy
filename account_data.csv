@@ -1,0 +1,17 @@
+﻿bill_id,account,meter,location,building,type,subtype,gross_area,irrigated_arrea,year,occupancy,num_bldgs,12m_data,lot_size,part_encl_size,tot_encl_size,supp_heat,wk_op_hours,num_workers,num_comps,pc_cool,pc_heat
+100,4245507802,2198749,150 Park Ave,Library,library,,,,,,,,X,X,X,X,,,,X,X
+101,4245507802,1972418+1805763,150 Park Ave,Library,library,,,,,,,,X,X,X,X,,,,X,X
+200,6583579200,,220 Highland Cross,Dept of Public Works,public service,other,,,,,,,X,X,X,X,,,,X,X
+300,7339790608,,176 Park Ave,Borough Hall,office,,,,,,,,X,X,X,X,,,,,
+400,7339790306,,55 Kipp Ave,Kipp Center Building,social,,,,,,,,X,X,X,X,,,,X,X
+500,7339792708,,55 Kipp Ave PKG,Parking Garage,parking,,,,,,,,,,,,X,X,X,X,X
+600,7339790403,,42 Ames Ave,Ambulance Corp Building,fire,,,,,,,,X,X,X,X,,,,X,X
+610,7339790101,,46 Ames Ave,Firehouse,fire,,,,,,,,X,X,X,X,,,,X,X
+620,7339791906,,356 Union Ave,Firehouse,fire,,,,,,,,X,X,X,X,,,,X,X
+700,7339792007,,184 Park Ave,Police Station,police,,,,,,,,X,X,X,X,,,,X,X
+800,6663721801,,Lincoln Park,Gazebo,recreation,other,,,,,,,X,X,X,X,,,,X,X
+810,7172482506,,Highland Cross/Meadow Road ,Restroom,recreation,other,,,,,,,X,X,X,X,,,,X,X
+820,6973802109,,Memorial Field,Bathroom,recreation,other,,,,,,,X,X,X,X,,,,X,X
+830,7339790500,,Washington Ave,Snk for Recreation,recreation,other,,,,,,,X,X,X,X,,,,X,X
+840,7339793208,3744957,Monona Ave,Fieldhouse,recreation,other,,,,,,,X,X,X,X,,,,X,X
+841,7339793208,3744958,Monona Ave,Fieldhouse,recreation,other,,,,,,,X,X,X,X,,,,X,X
